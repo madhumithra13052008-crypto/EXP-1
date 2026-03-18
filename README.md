@@ -45,7 +45,8 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
 
-![kvl circuit](https://github.com/user-attachments/assets/0e381f1a-d2f3-48e7-8abe-bf7aa818af89)
+![v circuit](https://github.com/user-attachments/assets/d03c3c32-9cb9-49b6-9e90-dafcfde88487)
+
 
 
 
