@@ -44,10 +44,16 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
+
+<img width="814" height="536" alt="Screenshot 2026-03-11 134909" src="https://github.com/user-attachments/assets/4741d5c8-b821-461b-9475-bbf25d4aabfc" />
+
  
 
 
 b.  KCL:
+
+<img width="1177" height="680" alt="Screenshot 2026-03-11 140450" src="https://github.com/user-attachments/assets/edc13863-b283-4ecd-b8fd-5485298eed43" />
+
  
 
 Calculation:
